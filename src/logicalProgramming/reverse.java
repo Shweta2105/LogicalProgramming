@@ -1,7 +1,7 @@
 package logicalProgramming;
-import java.util.Scanner;
 
-public class pailndrome {
+import java.util.Scanner;
+public class reverse {
 	public static void main(String[] args) {
 		System.out.println("Enter the number:");
 		Scanner sc = new Scanner(System.in);
@@ -16,5 +16,6 @@ public class pailndrome {
 		}
 	System.out.println("The number reversed is : "+rev);
 	}
+
 
 }
