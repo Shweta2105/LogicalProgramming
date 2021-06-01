@@ -12,7 +12,7 @@ public class binary {
 		
 		int bin = toBinary(num);
 		
-		//System.out.println("\nbinary conversion : "+bin);
+		System.out.println(+bin);
 		
 	}
 
